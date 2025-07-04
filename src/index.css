@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  background-image: url('./assets/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: rgba(0, 0, 0, 0.7);
+  background-blend-mode: overlay;
+  color: white;
+  font-family: 'outfit';
+}
